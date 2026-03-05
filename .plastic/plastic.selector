@@ -1,0 +1,4 @@
+repository "AnomalyCourseGame/AnomalyCourseGame@10171263272663@cloud"
+  path "/"
+    br "/main"
+    co "/main"
